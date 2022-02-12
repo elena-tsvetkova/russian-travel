@@ -3,6 +3,11 @@
   line-height: 28px;
   color: white;
   margin-right: 18px;
+  text-decoration: none;
+}
+
+.header__lang-link:last-child {
+  margin-right: 0;
 }
 
 @media screen and (max-width: 768px) {
