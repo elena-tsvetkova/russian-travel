@@ -13,4 +13,3 @@
 
 https://elena-tsvetkova.github.io/russian-travel/index.html
 
-https://elena-tsvetkova.github.io/travel/index.html
