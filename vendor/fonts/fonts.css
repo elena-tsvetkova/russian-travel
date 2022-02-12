@@ -2,8 +2,8 @@
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  src: url('inter-v7-latin_cyrillic-regular.eot'); 
-  src: local(''),
+  src: url('inter-v7-latin_cyrillic-regular.eot');
+    src: local(''),
        url('inter-v7-latin_cyrillic-regular.eot?#iefix') format('embedded-opentype'), 
        url('inter-v7-latin_cyrillic-regular.woff2') format('woff2'), 
        url('inter-v7-latin_cyrillic-regular.woff') format('woff'), 
@@ -14,7 +14,7 @@
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  src: url('inter-v7-latin_cyrillic-900.eot'); 
+  src: url('inter-v7-latin_cyrillic-900.eot');
   src: local(''),
        url('inter-v7-latin_cyrillic-900.eot?#iefix') format('embedded-opentype'), 
        url('inter-v7-latin_cyrillic-900.woff2') format('woff2'), 
