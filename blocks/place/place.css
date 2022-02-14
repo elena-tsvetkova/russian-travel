@@ -3,7 +3,7 @@
   grid-template-columns: min-content 1fr;
   grid-template-rows: auto 1fr;
   grid-gap: 48px 32px;
-  padding-bottom: 80px;
+  padding-bottom: 83px;
 }
 
 .place:last-child {
@@ -16,7 +16,7 @@
   }
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
   .place {
     padding-bottom: 73px;
     grid-gap: 48px 28px;
