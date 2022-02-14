@@ -1,10 +1,12 @@
 .lead {
- padding: 0 48px;
+  margin: 0 auto;
+ /* padding: 0 48px; */
 }
 
 @media screen and (min-width: 1280px) {
   .lead {
-    padding: 0 90px;
+    width: calc(100% - 100px*2);
+    /* padding: 0 90px; */
    }
 }
 
