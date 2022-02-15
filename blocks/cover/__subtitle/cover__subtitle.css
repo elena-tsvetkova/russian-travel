@@ -23,3 +23,10 @@
   }
 
 }
+@media screen and (max-width: 320px) {
+  .cover__subtitle {
+    margin: 0 auto;
+    max-width: 263px;
+    text-align: center;
+  }
+}

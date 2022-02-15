@@ -45,4 +45,7 @@
     padding-left: 0;
     padding-bottom: 0;
   } 
+  .place:last-child {
+    margin-bottom: 0;
+  } 
 }
