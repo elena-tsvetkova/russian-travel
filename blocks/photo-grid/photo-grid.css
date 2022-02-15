@@ -14,7 +14,7 @@
     grid-template-rows: repeat(3, 1fr);
     grid-gap: 16px;
     width: 1184px;
-    padding: 0 57px;
+    padding: 0 21px;
   }
 }
 

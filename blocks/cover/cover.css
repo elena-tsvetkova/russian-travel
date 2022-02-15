@@ -28,12 +28,11 @@
 
 @media screen and (min-width: 1280px) {
   .cover {
-    max-width: 1064px;
+    max-width: 1180px;
     height: 740px;
-    padding-left: 111px;
     box-sizing: border-box;
-    margin-left: 62px;
-
+    margin-left: 24px;
+    margin-right: 0;
   }
 }
 
