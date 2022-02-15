@@ -16,3 +16,9 @@
     line-height: 20px;
   }
 }
+
+@media screen and (min-width: 1280px){
+  .header__lang-link {
+    line-height: 37px;
+  }
+}
