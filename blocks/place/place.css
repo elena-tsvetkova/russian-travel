@@ -38,3 +38,11 @@
     
   } 
 }
+
+@media screen and (max-width: 320px) {
+  .place {
+    margin-bottom: 59px;
+    padding-left: 0;
+    padding-bottom: 0;
+  } 
+}
