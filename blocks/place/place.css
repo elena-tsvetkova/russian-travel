@@ -12,7 +12,8 @@
 
 @media screen and (min-width: 1280px) {
   .place {
-    grid-gap: 48px 40px;
+    grid-gap: 51px 40px;
+    padding-bottom: 78px;
   }
 }
 

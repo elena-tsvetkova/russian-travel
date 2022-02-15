@@ -4,6 +4,7 @@
   color: white;
   margin-right: 18px;
   text-decoration: none;
+  display: inline-block;
 }
 
 .header__lang-link:last-child {

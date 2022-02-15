@@ -5,3 +5,9 @@
   margin: 0;
   padding-bottom: 12px;
 }
+
+@media screen and (min-width: 1280px) {
+  .place__url-heading {
+    margin-bottom: 19px;
+  }
+}
